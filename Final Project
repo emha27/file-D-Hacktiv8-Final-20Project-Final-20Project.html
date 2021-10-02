@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Michael Hutauruk</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<div class="bg">
+    
+    <!-- navbar -->
+
+    <nav class="navbar justify-content-between">
+        <div class="menu">
+        <a href="#" class="active">HOME</a>
+        <a href="#">ABOUT</a>
+        <a href="#">PORTOFOLIO</a>
+        <a href="#">BLOGS</a>
+        <a href="#">TEAM</a>
+        <a href="#">CONTACT</a>
+        </div>
+    </nav>
+
+    <!-- akhir navbar -->
+
+    <br>
+
+    <!-- home -->
+
+    <div class="<div class="container-fluid">
+        <div class="d-sm-flex justify-content-around content">
+            <div class="content-left"
+            <br>
+            <h1 class="welcome"><b>Welcome</b></h1>
+
+            <div class="description">
+            <h3>
+                Here's what I would like to share about myself
+            </h3>
+            </div>
+            <br>
+    </div>
+
+    <!-- akhir home -->
+
+    <br>
+
+    <!-- about -->
+    <div class="about">
+        <img src="MH.jpg" width="230" height="260">
+            <div class="hello"><h1>Hello</h1>
+            <h3>ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</h3></div>
+    </div>
+
+    <br>
+
+    <!-- akhir about -->
+
+    <!-- portofolio -->
+    <div class="portofolio">
+        <h1>MY PORTOFOLIO</h1>
+        <img src="portofolio1.jpg" width="200" height="240">
+        <img src="portofolio2.jpg" width="200" height="240">
+        <img src="portofolio3.jpg" width="200" height="240">
+    </div>
+
+    <br>
+
+    <!-- akhir portofolio -->
+
+    <!-- blog -->
+    <div class="blog">
+        <h1>BLOGS</h1>
+        <img src="blog1.jpg" width="200" height="240">
+        <img src="blog2.png" width="200" height="240">
+        <img src="blog3.jpg" width="200" height="240">
+    </div>
+
+    <br>
+
+    <!-- akhir blog -->
+
+    <!-- team -->
+    <div class="team">
+        <h1>OUR TEAM</h1>
+        <img src="team1.jpg" width="240" height="240">
+        <h3>Arthur Morgan (Leader)</h3>
+        <img src="team2.jpg" width="200" height="240">
+        <h3>Dutch Van Der Linde (Second in Command)</h3>
+            <div class="member">
+                <img src="team3.jpg" width="200" height="240">
+                <h3>John Marston (Gunman)</h3>
+                <img src="team4.jpg" width="200" height="240">
+                <h3>Abigail Roberts (Secretary)</h3>
+            </div>
+    </div>
+
+    <br>
+
+    <!-- akhir team -->
+
+    <!-- contact -->
+    <div class="part5">
+        <h1>TELL ME MORE</h1>
+        <h3>(kolom untuk kontak kontak)</h3>
+    </div>
+
+</div>
+
+</body>
+</html>
